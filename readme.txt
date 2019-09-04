@@ -1,2 +1,2 @@
-Git is a vesrion control system
-for free
+Git is a distributed vesrion control system
+and for free
