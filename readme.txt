@@ -1,2 +1,2 @@
 Git is a distributed vesrion control system
-and for free
+and for free under the GPL.
